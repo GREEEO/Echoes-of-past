@@ -1,0 +1,5 @@
+{
+  "name": "Ancestral Echoes: A Generative History Game",
+  "description": "An open-world historical game where you explore ancient lands and listen to an elder NPC narrate procedurally generated tales of your ancestors' epic battles and struggles, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
